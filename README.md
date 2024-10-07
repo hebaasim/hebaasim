@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 ## About Me
-I'm a passionate coder enthusiast diving deep into the world of web development. As a full-stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js), I build applications that are not just functional but also fun! 🎉
+Hi! this is Heba. I'm a passionate coder enthusiast diving deep into the world of web development. As a full-stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js), I build applications that are not just functional but also fun! 🎉
 
 ## Skills
 - *Front-End*: React, HTML, CSS, JavaScript
